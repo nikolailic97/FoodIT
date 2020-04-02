@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.stepstone.apprating:app-rating:2.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/55830d316735621cc6114d0a7a107d3c/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/55830d316735621cc6114d0a7a107d3c/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.stepstone.apprating/app-rating/2.0.0/1c21c23d67e36e1f0b3b8cef24aa70114f3c3a4d/app-rating-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

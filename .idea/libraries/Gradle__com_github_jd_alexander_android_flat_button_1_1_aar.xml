@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.jd-alexander:android-flat-button:1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6893b714703c06ce1be6ab27b560315c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6893b714703c06ce1be6ab27b560315c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jd-alexander/android-flat-button/1.1/f34755e2672718b9f7cadcf1da27e01ac7fb1df6/android-flat-button-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

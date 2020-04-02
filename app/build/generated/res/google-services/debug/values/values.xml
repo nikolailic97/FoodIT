@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">723936690426-0lki0el1do3g1eqqijpkc62lmq14s5qh.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://androidfoodit-aa85f.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">723936690426</string>
+    <string name="google_api_key" translatable="false">AIzaSyAA6WHVdl9M7tvUVb3D7Y4JeSCzEqz0LXA</string>
+    <string name="google_app_id" translatable="false">1:723936690426:android:665da664f8f69d92144943</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAA6WHVdl9M7tvUVb3D7Y4JeSCzEqz0LXA</string>
+    <string name="google_storage_bucket" translatable="false">androidfoodit-aa85f.appspot.com</string>
+    <string name="project_id" translatable="false">androidfoodit-aa85f</string>
+</resources>

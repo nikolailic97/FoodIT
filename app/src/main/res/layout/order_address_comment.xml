@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardElevation="4dp"
+    >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp">
+
+
+           <com.rengwuxian.materialedittext.MaterialEditText
+               android:id="@+id/edtAddress"
+               android:hint="Address"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:textColorHint="@color/colorPrimary"
+               android:text=""
+               android:textColor="@color/colorPrimary"
+               android:inputType="text"
+               app:met_baseColor="@color/colorPrimary"
+               app:met_floatingLabel="highlight"
+               app:met_primaryColor="@color/colorPrimary"
+               app:met_singleLineEllipsis="true"
+               />
+
+            <com.rengwuxian.materialedittext.MaterialEditText
+                android:id="@+id/edtComment"
+                android:hint="Comment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColorHint="@color/colorPrimary"
+                android:text=""
+                android:textColor="@color/colorPrimary"
+                android:textSize="16sp"
+                android:inputType="textMultiLine"
+                app:met_baseColor="@color/colorPrimary"
+                app:met_floatingLabel="highlight"
+                app:met_primaryColor="@color/colorPrimary"
+                app:met_singleLineEllipsis="true"
+                />
+
+        </LinearLayout>
+
+        <ImageView
+            android:layout_gravity="center_vertical|end"
+            android:layout_marginRight="16dp"
+            android:id="@+id/cart_item_count"
+            android:layout_width="20dp"
+            android:layout_height="20dp" />
+
+
+</androidx.cardview.widget.CardView>
